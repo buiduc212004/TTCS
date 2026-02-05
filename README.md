@@ -4,18 +4,6 @@
 
 ---
 
-## 🧑‍💻 THÔNG TIN CÁ NHÂN
-
-| Họ và Tên | [Tên của bạn] |
-|-----------|---------------|
-| **Vị trí ứng tuyển** | NodeJS Intern/Fresher |
-| **Dự án** | Mental Health Chatbot with AI |
-| **Thời gian thực hiện** | [Thời gian] |
-| **Vai trò** | Full-stack Developer |
-| **Công nghệ** | Python, LangChain, FAISS, Streamlit, Groq API, RAG Architecture |
-
----
-
 ## 🧠 MÔ TẢ HỆ THỐNG
 
 Hệ thống Chatbot Tâm Lý là một ứng dụng web AI giúp người dùng:

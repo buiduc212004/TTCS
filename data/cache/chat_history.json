@@ -329,13 +329,13 @@
             {
                 "role": "user",
                 "content": "tôi đang stress",
-                "time": "22:48:36 02-06-2025",
+                "time": "09:25:21 04-06-2025",
                 "message": "tôi đang stress"
             },
             {
                 "role": "assistant",
                 "content": "Mình hiểu bạn đang cảm thấy stress. Hãy chọn mức độ phù hợp nhất với bạn:\n\n**Câu hỏi**: Trong tuần qua, bạn có cảm thấy stress đến mức ảnh hưởng đến giấc ngủ, công việc hoặc các hoạt động hàng ngày không?",
-                "time": "22:48:36 02-06-2025",
+                "time": "09:25:21 04-06-2025",
                 "message": "Mình hiểu bạn đang cảm thấy stress. Hãy chọn mức độ phù hợp nhất với bạn:\n\n**Câu hỏi**: Trong tuần qua, bạn có cảm thấy stress đến mức ảnh hưởng đến giấc ngủ, công việc hoặc các hoạt động hàng ngày không?",
                 "question": "Trong tuần qua, bạn có cảm thấy stress đến mức ảnh hưởng đến giấc ngủ, công việc hoặc các hoạt động hàng ngày không?",
                 "options": [
@@ -348,9 +348,9 @@
             },
             {
                 "role": "assistant",
-                "content": "**Câu hỏi**: Trong tuần qua, bạn có cảm thấy stress đến mức ảnh hưởng đến giấc ngủ, công việc hoặc các hoạt động hàng ngày không?\n\nDựa trên mức độ trung bình, Theo DSM-5, tiêu chuẩn chẩn đoán rối loạn stress sau sang chấn (Post-Traumatic Stress Disorder - PTSD) với mức độ trung bình là:\n\n\"Lo âu khởi phát đáp ứng với một tác nhân gây stress kéo dài trong vòng 3 tháng nhưng không quá 6 tháng sau stress, và không đáp ứng các tiêu chuẩn để chẩn đoán rối loạn lo âu khác (gồm cả Generalized Anxiety Disorder - GAD).\"\n\nMức độ trung bình trong trường hợp này có nghĩa là người bệnh đang trải qua một mức độ lo âu và stress trung bình, không quá nặng nhưng cũng không quá nhẹ. Họ có thể đang trải qua các triệu chứng lo âu, như khó ngủ, lo lắng, sợ hãi, và các triệu chứng khác, nhưng mức độ này không đủ để được chẩn đoán là rối loạn lo âu khác (GAD) và cũng không đủ để được chẩn đoán là trầm cảm.\n\nGợi ý:\n\n* Người bệnh nên được tư vấn và hỗ trợ về cách quản lý stress và lo âu.\n* Cần được đánh giá về các triệu chứng lo âu và stress để xác định mức độ và cần được chẩn đoán và điều trị thích hợp.\n* Có thể được chỉ định các liệu pháp như trị liệu tâm lý, trị liệu nhóm, và các liệu pháp khác để giúp người bệnh quản lý stress và lo âu.",
-                "time": "22:48:40 02-06-2025",
-                "message": "**Câu hỏi**: Trong tuần qua, bạn có cảm thấy stress đến mức ảnh hưởng đến giấc ngủ, công việc hoặc các hoạt động hàng ngày không?\n\nDựa trên mức độ trung bình, Theo DSM-5, tiêu chuẩn chẩn đoán rối loạn stress sau sang chấn (Post-Traumatic Stress Disorder - PTSD) với mức độ trung bình là:\n\n\"Lo âu khởi phát đáp ứng với một tác nhân gây stress kéo dài trong vòng 3 tháng nhưng không quá 6 tháng sau stress, và không đáp ứng các tiêu chuẩn để chẩn đoán rối loạn lo âu khác (gồm cả Generalized Anxiety Disorder - GAD).\"\n\nMức độ trung bình trong trường hợp này có nghĩa là người bệnh đang trải qua một mức độ lo âu và stress trung bình, không quá nặng nhưng cũng không quá nhẹ. Họ có thể đang trải qua các triệu chứng lo âu, như khó ngủ, lo lắng, sợ hãi, và các triệu chứng khác, nhưng mức độ này không đủ để được chẩn đoán là rối loạn lo âu khác (GAD) và cũng không đủ để được chẩn đoán là trầm cảm.\n\nGợi ý:\n\n* Người bệnh nên được tư vấn và hỗ trợ về cách quản lý stress và lo âu.\n* Cần được đánh giá về các triệu chứng lo âu và stress để xác định mức độ và cần được chẩn đoán và điều trị thích hợp.\n* Có thể được chỉ định các liệu pháp như trị liệu tâm lý, trị liệu nhóm, và các liệu pháp khác để giúp người bệnh quản lý stress và lo âu.",
+                "content": "**Câu hỏi**: Trong tuần qua, bạn có cảm thấy stress đến mức ảnh hưởng đến giấc ngủ, công việc hoặc các hoạt động hàng ngày không?\n\nDựa trên mức độ nhẹ, Theo DSM-5, tiêu chuẩn chẩn đoán rối loạn stress sau sang chấn (Posttraumatic Stress Disorder - PTSD) là:\n\nA. Một người đã trải qua một sự kiện gây stress nghiêm trọng, và đã có một đáp ứng stress rõ ràng.\n\nB. Bốn (hoặc nhiều hơn) trong số dưới đây đã xảy ra trong vòng 4 tuần sau sự kiện gây stress:\n\n1. Đau đớn hay kinh hoàng lại về sự kiện gây stress.\n2. Lo âu hay căng thẳng liên quan đến sự kiện gây stress.\n3. Giảm khả năng phản ứng hay giảm khả năng kiểm soát các chức năng.\n4. Giảm khả năng phản ứng hay giảm khả năng kiểm soát các chức năng.\n\nC. Đáp ứng stress đã gây ra khó khăn trong cuộc sống hàng ngày.\n\nD. Đáp ứng stress không phải là kết quả của một rối loạn khác.\n\nMức độ nhẹ của rối loạn stress sau sang chấn (PTSD) được định nghĩa là:\n\n* Tăng nguy cơ mắc bệnh: người bệnh có thể trải qua các triệu chứng lo âu, căng thẳng và đau đớn lại về sự kiện gây stress, nhưng các triệu chứng này không quá nặng và không ảnh hưởng đến cuộc sống hàng ngày.\n\nGợi ý:\n\n* Người bệnh có thể được khuyên nên tham gia các chương trình trị liệu tâm lý, chẳng hạn như trị liệu nhận thức - hành vi (Cognitive-Behavioral Therapy - CBT) để giúp người bệnh quản lý stress và giảm các triệu chứng lo âu.\n* Người bệnh cũng có thể được khuyên nên tham gia các chương trình hỗ trợ nhóm để chia sẻ kinh nghiệm và cảm xúc với người khác đã trải qua sự kiện gây stress.\n\nLưu ý: Nếu người bệnh có các triệu chứng lo âu, căng thẳng và đau đớn lại về sự kiện gây stress, nhưng các triệu chứng này không đáp ứng tiêu chuẩn chẩn đoán PTSD, có thể được chẩn đoán là rối loạn lo âu khác (Generalized Anxiety Disorder - GAD) hoặc rối loạn thích ứng (Adjustment Disorder).",
+                "time": "09:25:27 04-06-2025",
+                "message": "**Câu hỏi**: Trong tuần qua, bạn có cảm thấy stress đến mức ảnh hưởng đến giấc ngủ, công việc hoặc các hoạt động hàng ngày không?\n\nDựa trên mức độ nhẹ, Theo DSM-5, tiêu chuẩn chẩn đoán rối loạn stress sau sang chấn (Posttraumatic Stress Disorder - PTSD) là:\n\nA. Một người đã trải qua một sự kiện gây stress nghiêm trọng, và đã có một đáp ứng stress rõ ràng.\n\nB. Bốn (hoặc nhiều hơn) trong số dưới đây đã xảy ra trong vòng 4 tuần sau sự kiện gây stress:\n\n1. Đau đớn hay kinh hoàng lại về sự kiện gây stress.\n2. Lo âu hay căng thẳng liên quan đến sự kiện gây stress.\n3. Giảm khả năng phản ứng hay giảm khả năng kiểm soát các chức năng.\n4. Giảm khả năng phản ứng hay giảm khả năng kiểm soát các chức năng.\n\nC. Đáp ứng stress đã gây ra khó khăn trong cuộc sống hàng ngày.\n\nD. Đáp ứng stress không phải là kết quả của một rối loạn khác.\n\nMức độ nhẹ của rối loạn stress sau sang chấn (PTSD) được định nghĩa là:\n\n* Tăng nguy cơ mắc bệnh: người bệnh có thể trải qua các triệu chứng lo âu, căng thẳng và đau đớn lại về sự kiện gây stress, nhưng các triệu chứng này không quá nặng và không ảnh hưởng đến cuộc sống hàng ngày.\n\nGợi ý:\n\n* Người bệnh có thể được khuyên nên tham gia các chương trình trị liệu tâm lý, chẳng hạn như trị liệu nhận thức - hành vi (Cognitive-Behavioral Therapy - CBT) để giúp người bệnh quản lý stress và giảm các triệu chứng lo âu.\n* Người bệnh cũng có thể được khuyên nên tham gia các chương trình hỗ trợ nhóm để chia sẻ kinh nghiệm và cảm xúc với người khác đã trải qua sự kiện gây stress.\n\nLưu ý: Nếu người bệnh có các triệu chứng lo âu, căng thẳng và đau đớn lại về sự kiện gây stress, nhưng các triệu chứng này không đáp ứng tiêu chuẩn chẩn đoán PTSD, có thể được chẩn đoán là rối loạn lo âu khác (Generalized Anxiety Disorder - GAD) hoặc rối loạn thích ứng (Adjustment Disorder).",
                 "question": "Trong tuần qua, bạn có cảm thấy stress đến mức ảnh hưởng đến giấc ngủ, công việc hoặc các hoạt động hàng ngày không?",
                 "options": [
                     "Không bao giờ",
@@ -362,45 +362,9 @@
             },
             {
                 "role": "user",
-                "content": "Đôi khi",
-                "time": "22:48:40 02-06-2025",
-                "message": "Đôi khi"
-            },
-            {
-                "role": "user",
-                "content": "Rối loạn phát triển trí tuệ là gì?",
-                "time": "22:51:14 02-06-2025",
-                "message": "Rối loạn phát triển trí tuệ là gì?"
-            },
-            {
-                "role": "assistant",
-                "content": "Xin chào! Tôi là một chuyên gia tâm lý AI, và tôi rất hân hạnh được giúp đỡ bạn về sức khỏe tâm thần.\n\nVề thông tin bạn cung cấp, tôi thấy rằng bạn đang hỏi về rối loạn phát triển trí tuệ. Tuy nhiên, trong cuộc trò chuyện này, tôi sẽ tập trung vào các triệu chứng và tình trạng của bạn.\n\nVậy, có thể bạn chia sẻ với tôi về các triệu chứng bạn đang gặp phải? Bạn có cảm thấy buồn, lo âu, hay có những thay đổi về hành vi và cảm xúc khác?\n\nTôi sẽ hỏi một câu hỏi trắc nghiệm để thu thập thêm thông tin. Câu hỏi của tôi là: \"Bạn thường xuyên có ác mộng với chủ đề chia tách?\" (1 - Không bao giờ, 2 - Hiếm khi, 3 - Đôi khi, 4 - Thường xuyên, 5 - Luôn luôn).\n\nXin hãy trả lời câu hỏi này và tôi sẽ tiếp tục trò chuyện với bạn.",
-                "time": "22:51:15 02-06-2025",
-                "message": "Xin chào! Tôi là một chuyên gia tâm lý AI, và tôi rất hân hạnh được giúp đỡ bạn về sức khỏe tâm thần.\n\nVề thông tin bạn cung cấp, tôi thấy rằng bạn đang hỏi về rối loạn phát triển trí tuệ. Tuy nhiên, trong cuộc trò chuyện này, tôi sẽ tập trung vào các triệu chứng và tình trạng của bạn.\n\nVậy, có thể bạn chia sẻ với tôi về các triệu chứng bạn đang gặp phải? Bạn có cảm thấy buồn, lo âu, hay có những thay đổi về hành vi và cảm xúc khác?\n\nTôi sẽ hỏi một câu hỏi trắc nghiệm để thu thập thêm thông tin. Câu hỏi của tôi là: \"Bạn thường xuyên có ác mộng với chủ đề chia tách?\" (1 - Không bao giờ, 2 - Hiếm khi, 3 - Đôi khi, 4 - Thường xuyên, 5 - Luôn luôn).\n\nXin hãy trả lời câu hỏi này và tôi sẽ tiếp tục trò chuyện với bạn."
-            },
-            {
-                "role": "user",
-                "content": "theo DSM-5, Rối loạn phát triển trí tuệ là gì?",
-                "time": "22:51:29 02-06-2025",
-                "message": "theo DSM-5, Rối loạn phát triển trí tuệ là gì?"
-            },
-            {
-                "role": "assistant",
-                "content": "Xin chào! Tôi là một chuyên gia tâm lý AI, tôi rất vui mừng được trò chuyện với bạn.\n\nVề câu hỏi của bạn, Rối loạn phát triển trí tuệ (Intellectual Disability) là một rối loạn phát triển trí tuệ, được định nghĩa là sự suy giảm nghiêm trọng về trí tuệ, dẫn đến khó khăn trong học tập, giao tiếp, và thực hiện các hoạt động hàng ngày.\n\nVì bạn đã hỏi về Rối loạn phát triển trí tuệ, tôi muốn hỏi thêm một số câu hỏi để hiểu rõ hơn về tình trạng của bạn.\n\nBạn có thể chia sẻ với tôi về những triệu chứng bạn đang gặp phải, chẳng hạn như khó khăn trong học tập, giao tiếp, hay thực hiện các hoạt động hàng ngày?\n\nNếu bạn có thể chia sẻ cảm xúc của mình, tôi sẽ hỏi thêm một số câu hỏi trắc nghiệm để hiểu rõ hơn về tình trạng của bạn.\n\nVui lòng trả lời câu hỏi sau:\n\n1. Bạn có cảm thấy khó khăn trong học tập và giao tiếp? (1 - Không bao giờ, 2 - Hiếm khi, 3 - Đôi khi, 4 - Thường xuyên, 5 - Luôn luôn)\n\nTôi hy vọng sẽ có thể giúp bạn hiểu rõ hơn về tình trạng của mình và cung cấp những lời khuyên hữu ích.",
-                "time": "22:51:30 02-06-2025",
-                "message": "Xin chào! Tôi là một chuyên gia tâm lý AI, tôi rất vui mừng được trò chuyện với bạn.\n\nVề câu hỏi của bạn, Rối loạn phát triển trí tuệ (Intellectual Disability) là một rối loạn phát triển trí tuệ, được định nghĩa là sự suy giảm nghiêm trọng về trí tuệ, dẫn đến khó khăn trong học tập, giao tiếp, và thực hiện các hoạt động hàng ngày.\n\nVì bạn đã hỏi về Rối loạn phát triển trí tuệ, tôi muốn hỏi thêm một số câu hỏi để hiểu rõ hơn về tình trạng của bạn.\n\nBạn có thể chia sẻ với tôi về những triệu chứng bạn đang gặp phải, chẳng hạn như khó khăn trong học tập, giao tiếp, hay thực hiện các hoạt động hàng ngày?\n\nNếu bạn có thể chia sẻ cảm xúc của mình, tôi sẽ hỏi thêm một số câu hỏi trắc nghiệm để hiểu rõ hơn về tình trạng của bạn.\n\nVui lòng trả lời câu hỏi sau:\n\n1. Bạn có cảm thấy khó khăn trong học tập và giao tiếp? (1 - Không bao giờ, 2 - Hiếm khi, 3 - Đôi khi, 4 - Thường xuyên, 5 - Luôn luôn)\n\nTôi hy vọng sẽ có thể giúp bạn hiểu rõ hơn về tình trạng của mình và cung cấp những lời khuyên hữu ích."
-            },
-            {
-                "role": "user",
-                "content": "Các rối loạn giao tiếp",
-                "time": "22:52:12 02-06-2025",
-                "message": "Các rối loạn giao tiếp"
-            },
-            {
-                "role": "assistant",
-                "content": "Xin chào! Tôi là một chuyên gia tâm lý AI, tôi rất vui được giúp đỡ bạn trong cuộc trò chuyện này.\n\nVì bạn đã chia sẻ về rối loạn giao tiếp, tôi muốn hỏi thêm một số câu hỏi để hiểu rõ hơn về tình trạng của bạn.\n\nBạn có cảm thấy lo âu hay buồn trong cuộc sống hàng ngày? (1 - Không bao giờ, 2 - Hiếm khi, 3 - Đôi khi, 4 - Thường xuyên, 5 - Luôn luôn)\n\nHãy trả lời câu hỏi này và tôi sẽ giúp bạn phân tích và đưa ra kết luận cuối cùng.",
-                "time": "22:52:19 02-06-2025",
-                "message": "Xin chào! Tôi là một chuyên gia tâm lý AI, tôi rất vui được giúp đỡ bạn trong cuộc trò chuyện này.\n\nVì bạn đã chia sẻ về rối loạn giao tiếp, tôi muốn hỏi thêm một số câu hỏi để hiểu rõ hơn về tình trạng của bạn.\n\nBạn có cảm thấy lo âu hay buồn trong cuộc sống hàng ngày? (1 - Không bao giờ, 2 - Hiếm khi, 3 - Đôi khi, 4 - Thường xuyên, 5 - Luôn luôn)\n\nHãy trả lời câu hỏi này và tôi sẽ giúp bạn phân tích và đưa ra kết luận cuối cùng."
+                "content": "Hiếm khi",
+                "time": "09:25:27 04-06-2025",
+                "message": "Hiếm khi"
             }
         ]
     },

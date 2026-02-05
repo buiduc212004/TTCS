@@ -1,2 +1,10 @@
 models/
 venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+data/cache/
+.DS_Store
+*.log
